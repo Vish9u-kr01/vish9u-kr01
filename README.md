@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishnu kumar</h1>
 <h3 align="center">"Building Solutions with Code | Frontend Developer & DSA Learner"</h3>
+<div align="center">
+  <img height="150" src="![image](https://github.com/user-attachments/assets/9d43231c-5586-43e2-bf56-7a93631c4dca)
+"  />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish9u-kr01&label=Profile%20views&color=0e75b6&style=flat" alt="vish9u-kr01" /> </p>
 
