@@ -10,10 +10,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
+- 🔭 I’m currently working on **Frontend and DSA with C++**
 
-- 🌱 I’m currently learning **React.js and Next.js TailwindCSS**
+- 🌱 I’m currently learning ** Javascript,React.js,Next.js and TailwindCSS**
+  
+- 👯 I’m looking to collaborate on **Frontend Development**
 
 - 📫 How to reach me **Vish9u1424@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Vish9u-kr01](https://github.com/Vish9u-kr01)
 
 - ⚡ Fun fact **Funny and Creative**
 
