@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish9u-kr01&label=Profile%20views&color=0e75b6&style=flat" alt="vish9u-kr01" /> </p>
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish9u-kr01&show_icons=true&locale=en" alt="vish9u-kr01" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
