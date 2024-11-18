@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishnu kumar</h1>
 <h3 align="center">"Building Solutions with Code | Frontend Developer & DSA Learner"</h3>
 <div align="center">
-  <img height="200" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img height="200" width="" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish9u-kr01&label=Profile%20views&color=0e75b6&style=flat" alt="vish9u-kr01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vish9u-kr01" alt="vish9u-kr01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React.js and Next.js TailwindCSS**
 
