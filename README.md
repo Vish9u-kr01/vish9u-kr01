@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu kumar</h1>
 <h3 align="center">"Building Solutions with Code | Frontend Developer & DSA Learner"</h3>
 <div align="center">
-  <img height="150" src="![image](https://github.com/user-attachments/assets/9d43231c-5586-43e2-bf56-7a93631c4dca)
-"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 
