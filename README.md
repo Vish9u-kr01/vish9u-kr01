@@ -6,6 +6,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish9u-kr01&label=Profile%20views&color=0e75b6&style=flat" alt="vish9u-kr01" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 
 - 🌱 I’m currently learning **React.js and Next.js TailwindCSS**
 
