@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Frontend and DSA with C++**
 
-- 🌱 I’m currently learning ** Javascript,React.js,Next.js and TailwindCSS**
+- 🌱 I’m currently learning ** Javascript,React.js,TypeScript.js and TailwindCSS **
   
 - 👯 I’m looking to collaborate on **Frontend Development**
 
